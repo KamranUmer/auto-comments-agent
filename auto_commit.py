@@ -3,7 +3,7 @@ import subprocess
 # it works but need to do it auto matically via agent
 # one another thing to be add it should check my work dally that it should be automatically commits my data every day
 # and there will be check condition if no changes so the bot will write something and then commit it
-# auto commit 5/27/025 02
+# auto commit 02/jun/025 01
 
 def run_command(command):
     try:
